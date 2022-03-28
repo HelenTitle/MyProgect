@@ -7,47 +7,9 @@ body {
 }
 #nobottom {padding: 10px}
 <<<<<<< HEAD
-.contaner {display:inline-block;
-    vertical-align: top;
-}
-.adress{
-    background-color: aqua;
-    display:inline-block;
-    vertical-align: baseline;
-}
 
-.photo{
-    background-color:#990003;
-    display:inline-block;
-    vertical-align: baseline;
-}
 =======
 
-.inline {
-
-    display: flex;
-
- }
-
- .adress{
-
-    height: 300px;
-    width: 300px;
-    border: 3px solid red;
-    margin-right: 30px;
-
-
- }
-
- .photo{
-
-    height: 100px;
-    width: 100px;
-    border: 3px solid red;
-    margin-right: 30px;
-
-
- }
 >>>>>>> e3f9bb4fa9f5f65264c4973a6e4250a5b6e048a8
 
 h2 { font-size: 152% }
